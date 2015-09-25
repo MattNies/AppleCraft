@@ -1,0 +1,54 @@
+[01:05:07] [main/INFO]: Setting user: Player721
+[01:05:08] [Client thread/INFO]: LWJGL Version: 2.9.1
+[01:05:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AppleCraft
+[01:05:13] [Sound Library Loader/INFO]: Sound engine started
+[01:05:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:05:14] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[01:05:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AppleCraft
+[01:05:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:05:14] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[01:05:15] [Sound Library Loader/INFO]: Sound engine started
+[01:05:21] [Client thread/INFO]: Deleting level Copy of New World
+[01:05:21] [Client thread/INFO]: Attempt 1...
+[01:05:23] [Client thread/INFO]: Deleting level New World
+[01:05:23] [Client thread/INFO]: Attempt 1...
+[01:05:29] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[01:05:29] [Server thread/INFO]: Generating keypair
+[01:05:29] [Server thread/INFO]: Converting map!
+[01:05:29] [Server thread/INFO]: Scanning folders...
+[01:05:29] [Server thread/INFO]: Total conversion count is 0
+[01:05:29] [Server thread/INFO]: Preparing start region for level 0
+[01:05:30] [Server thread/INFO]: Preparing spawn area: 10%
+[01:05:31] [Server thread/INFO]: Preparing spawn area: 26%
+[01:05:32] [Server thread/INFO]: Preparing spawn area: 47%
+[01:05:33] [Server thread/INFO]: Preparing spawn area: 68%
+[01:05:34] [Server thread/INFO]: Preparing spawn area: 90%
+[01:05:35] [Server thread/INFO]: Changing view distance to 12, from 10
+[01:05:35] [Server thread/INFO]: Player721[local:E:8829e0a2] logged in with entity id 247 at (11.5, 71.0, -150.5)
+[01:05:35] [Server thread/INFO]: Player721 joined the game
+[01:05:38] [Server thread/INFO]: Player721 has just earned the achievement [Taking Inventory]
+[01:05:38] [Client thread/INFO]: [CHAT] Player721 has just earned the achievement [Taking Inventory]
+[01:05:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 121 ms
+[01:05:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 129 ms
+[01:05:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
+[01:05:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 120 ms
+[01:05:43] [Client thread/INFO]: Warning: Clientside chunk ticking took 113 ms
+[01:05:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 158 ms
+[01:05:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 166 ms
+[01:05:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 157 ms
+[01:05:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 142 ms
+[01:05:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[01:05:45] [Client thread/INFO]: Warning: Clientside chunk ticking took 122 ms
+[01:05:59] [Server thread/INFO]: [Player721: Set own game mode to Survival Mode]
+[01:05:59] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[01:07:22] [Server thread/INFO]: Saving and pausing game...
+[01:07:22] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[01:07:22] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[01:07:22] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:07:22] [Server thread/INFO]: Stopping server
+[01:07:22] [Server thread/INFO]: Saving players
+[01:07:22] [Server thread/INFO]: Saving worlds
+[01:07:22] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[01:07:22] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[01:07:22] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:07:24] [Client thread/INFO]: Stopping!
