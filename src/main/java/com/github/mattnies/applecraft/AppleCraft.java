@@ -1,6 +1,10 @@
 package com.github.mattnies.applecraft;
 
+import net.minecraft.creativetab.CreativeTabs;
+
+import com.github.mattnies.applecraft.creativetab.CreativeTabAC;
 import com.github.mattnies.applecraft.init.ModItems;
+import com.github.mattnies.applecraft.init.ModRecipes;
 import com.github.mattnies.applecraft.proxies.CommonProxy;
 
 import cpw.mods.fml.common.Mod;
@@ -21,6 +25,8 @@ public class AppleCraft
 	public static AppleCraft instance;
 	
 	
+	public static CreativeTabs appleTab = new CreativeTabAC("applecraft", CreativeTabs.getNextID());
+	
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event)
 	{
@@ -30,7 +36,8 @@ public class AppleCraft
 	@Mod.EventHandler
 	public void init(FMLInitializationEvent event)
 	{
-
+		ModRecipes.registerRecipes();
+		ModRecipes.registerShapelessRecipes();
 	}
 
 	@Mod.EventHandler

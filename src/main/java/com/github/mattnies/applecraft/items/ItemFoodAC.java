@@ -1,10 +1,5 @@
 package com.github.mattnies.applecraft.items;
 
-import java.util.Random;
-
-import com.github.mattnies.applecraft.Reference;
-
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemFood;
 import net.minecraft.item.ItemStack;
@@ -12,28 +7,31 @@ import net.minecraft.potion.Potion;
 import net.minecraft.potion.PotionEffect;
 import net.minecraft.world.World;
 
+import com.github.mattnies.applecraft.AppleCraft;
+import com.github.mattnies.applecraft.Reference;
+
 public class ItemFoodAC extends ItemFood
 {
 	private PotionEffect[] effects;
-	private Apple apple;
+	private AppleAC apple;
 	
-	public ItemFoodAC(String unlocalizedName, int healAmount, float satModifier, boolean isWolfFood, Apple apple)
+	public ItemFoodAC(String unlocalizedName, int healAmount, float satModifier, boolean isWolfFood, AppleAC apple)
 	{
 		super(healAmount, satModifier, isWolfFood);
 		this.setUnlocalizedName(unlocalizedName);
 		this.setTextureName(Reference.MODID + ":" + unlocalizedName);
-		this.setCreativeTab(CreativeTabs.tabMisc);
+		this.setCreativeTab(AppleCraft.appleTab);
 		this.apple = apple;
 	}
 	
-	public ItemFoodAC(String unlocalizedName, int healAmount, float satModifier, boolean isWolfFood, Apple apple, PotionEffect...effects)
+	public ItemFoodAC(String unlocalizedName, int healAmount, float satModifier, boolean isWolfFood, AppleAC apple, PotionEffect...effects)
 	{
 		super(healAmount, satModifier, isWolfFood);
 		this.setUnlocalizedName(unlocalizedName);
 		this.setTextureName(Reference.MODID + ":" + unlocalizedName);
-		this.setCreativeTab(CreativeTabs.tabMisc);
+		this.setCreativeTab(AppleCraft.appleTab);
 		this.effects = effects;
-		this.apple = Apple.Potion;
+		this.apple = AppleAC.Potion;
 	}
 
 	@Override

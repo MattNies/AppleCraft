@@ -1,2 +1,34 @@
 item.apple_nightvision.name=Nightvision Apple
-item.apple_nightvision_plus.name=Nightvision Apple
+item.apple_nightvision_plus.name=Nightvision Apple Plus
+item.apple_invisibility.name=Invisiblity Apple
+item.apple_invisibility_plus.name=Invisiblity Apple Plus
+item.apple_leaping.name=Jump Apple
+item.apple_leaping_plus.name=Jump Apple Plus
+item.apple_leaping2.name=Jump Apple II
+item.apple_fireresist.name=Fire Resistance Apple
+item.apple_fireresist_plus.name=Fire Resistance Apple Plus
+item.apple_slowness.name=Slowness Apple
+item.apple_slowness_plus.name=Slowness Apple Plus
+item.apple_swiftness.name=Speed Apple
+item.apple_swiftness_plus.name=Speed Apple Plus
+item.apple_swiftness2.name=Speed Apple II
+item.apple_waterbreath.name=Water Breathing Apple
+item.apple_waterbreath_plus.name=Water Breathing Apple Plus
+item.apple_heal.name=Heal Apple
+item.apple_heal2.name=Heal Apple II
+item.apple_harm.name=Harm Apple
+item.apple_harm2.name=Harm Apple II
+item.apple_poison.name=Poison Apple
+item.apple_poison_plus.name=Poison Apple Plus
+item.apple_poison2.name=Poison Apple II
+item.apple_regen.name=Regeneration Apple
+item.apple_regen_plus.name=Regeneration Apple Plus
+item.apple_regen2.name=Regeneration Apple II
+item.apple_strength.name=Strength Apple
+item.apple_strength_plus.name=Strength Apple Plus
+item.apple_strength2.name=Strength Apple II
+item.apple_weakness.name=Weakness Apple
+item.apple_weakness_plus.name=Weakness Apple Plus
+
+
+itemGroup.applecraft=Apple Craft

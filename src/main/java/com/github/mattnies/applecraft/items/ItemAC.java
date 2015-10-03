@@ -1,17 +1,17 @@
 package com.github.mattnies.applecraft.items;
 
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
+import com.github.mattnies.applecraft.AppleCraft;
 import com.github.mattnies.applecraft.Reference;
 
-public class ItemAppleCraft extends Item
+public class ItemAC extends Item
 {
 
-	public ItemAppleCraft(String name)
+	public ItemAC(String name)
 	{
 		super();
-        this.setCreativeTab(CreativeTabs.tabMisc);
+        this.setCreativeTab(AppleCraft.appleTab);
         this.setUnlocalizedName(name);
         this.setTextureName(Reference.MODID + ":" + name);
 	}

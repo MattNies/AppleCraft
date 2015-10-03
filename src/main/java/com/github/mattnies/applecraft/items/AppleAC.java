@@ -1,6 +1,6 @@
 package com.github.mattnies.applecraft.items;
 
-public enum Apple {
+public enum AppleAC {
 	Normal, // normal apple used for food
 	Potion, // apple that has set potion effect
 	Random, // random potion effects
