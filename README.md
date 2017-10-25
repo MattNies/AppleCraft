@@ -1,2 +1,2 @@
 # AppleCraft
-The name says it all.If you enjoy apples and minecraft then this is a mod for you! enjoy
+"The name says it all. If you enjoy apples and Minecraft then this is a mod for you! Enjoy!
